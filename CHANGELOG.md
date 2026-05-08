@@ -1,3 +1,7 @@
+#### 4.1.10: Maintenance Release
+
+ - Fix module name validation for uninstall and tgz install (#5722) @knolleary
+
 #### 4.1.9: Maintenance Release
 
  - Update "use-tls" translations to indicate that a custom cert is used (#5685) @tobias47n9e
